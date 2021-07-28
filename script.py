@@ -5,9 +5,13 @@ class script(object):
 
 
 
+Hi How Are You ❀⨀⃝𝐒𝐀𝐂𝐇𝐈𝐍 𝐒
+
+
+
 Edit @FilterKajal_Bot info.
 
-Name: Anikha
+Name: Kajal 2.0
 Description: ✨ PowerFull Kajal 2.0 Bot ✨
 ✨ Master ~ @sachin_official_admin ✨
 
@@ -15,6 +19,8 @@ Description: ✨ PowerFull Kajal 2.0 Bot ✨
 About: ✨ Hello ✨!! I'm Kajal 2.0 Bot of @FilterKajal_Bot
 Botpic: 🖼 has a botpic
 Commands: no commands yet
+
+For more click help
 
 For more click <i>help</i></b>"""
 
