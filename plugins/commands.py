@@ -22,7 +22,7 @@ async def start(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/TroJanzHEX")
+                            "🎧 JOIN OUR MAIN CHANNEL 🎧", url="https://t.me/GD_FILMCLUB")
                     ]
                 ]
             ),
@@ -45,7 +45,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ SUPPORT ⭕️", url="https://t.me/TroJanzSupport")
+                            "💞 SUPPORT GROUP 💞", url="https://t.me/KicchaRequest")
                     ]
                 ]
             ),
