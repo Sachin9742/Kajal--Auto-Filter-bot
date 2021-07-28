@@ -1,13 +1,20 @@
 class script(object):
 
 
-    START_MSG = """ <b>Hi {}
+    START_MSG = """ <b>Hi How Are You {}
 
-You can call this as an Auto Filter Bot if you like :D
 
-Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
 
-So no need to add filters for your files or movies from now on!
+Edit @FilterKajal_Bot info.
+
+Name: Anikha
+Description: ✨ PowerFull Kajal 2.0 Bot ✨
+✨ Master ~ @sachin_official_admin ✨
+
+✨ Powered By ~ https://t.me/KicchaRequest ✨
+About: ✨ Hello ✨!! I'm Kajal 2.0 Bot of @FilterKajal_Bot
+Botpic: 🖼 has a botpic
+Commands: no commands yet
 
 For more click <i>help</i></b>"""
 
@@ -26,17 +33,16 @@ No need add each filter again!
 Bot will automatically search for your file and give links to that!
 </i>
 
-<b>© @TroJanzHEX</b>"""
+<b>© @KicchaRequest</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot</b>
+    ABOUT_MSG = """🎭<b>My Name : Kajal Auto Filter Bot</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+🎭<b>Creater :</b> @sachin_official_admin
 
-⭕️<b>Language :</b> <code>Python3</code>
+🎭<b>Language :</b> <code>Python3</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+🎭<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
-
+🎭<b>Tutorial Video :</b> <a href='https://t.me/KicchaRequest'>Video Link</a> 
 """
