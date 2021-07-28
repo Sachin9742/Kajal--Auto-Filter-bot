@@ -36,9 +36,8 @@ async def filter(client: Bot, message: Message):
             msg_id = msg.message_id                     
             link = msg.link
             btn.append(
-                [InlineKeyboardButton(text=f"{file_name}",url=f"{link}")]
+                [InlineKeyboardButton(text=f"🎸 {file_size} = 🎧{file_name}",url=f"{link}")]
             )
-
         if not btn:
             return
 
@@ -71,7 +70,7 @@ async def filter(client: Bot, message: Message):
         )
 
         await message.reply_text(
-                f"<b> Here is the result for {message.text}</b>",
+                f"<b> 📑 Requested Query :- {message.text}</b>",
                 reply_markup=InlineKeyboardMarkup(buttons)
             )    
 
